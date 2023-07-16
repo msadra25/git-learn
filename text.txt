@@ -1,2 +1,2 @@
-mission 1
+mission 1 done
 mission 2
