@@ -1,4 +1,4 @@
 mission 1 done
 mission 2 done
 mission 3 done
-mission 4
+mission 4 failed
