@@ -3,3 +3,7 @@ mission 2 done
 mission 3 done
 mission 4 failed
 last mission done
+new line 1 
+nwe line 2
+new line 3 
+new line 4
